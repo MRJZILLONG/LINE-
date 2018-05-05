@@ -1,9 +1,9 @@
 #BOTLIKE 
 
-BLACK_OF_GAMER
 
 
-BOT AUTO LIKE BLACK OF GAMER
+
+BOT AUTO LIKE WLAHAR
 
 VIA TERMUX/ANDROID
 
@@ -23,7 +23,7 @@ pkg install git
 
 pkg install nano
 
-git clone https://github.com/Acil95/botlike
+git clone https://github.com/sandalpenyok/LINE-
 
 Selesai
 
