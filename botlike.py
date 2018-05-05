@@ -19,7 +19,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 i = 0
 c_text = """❂•••••••••••••AUTO LIKE BY•••••••••••••❂
-                  https://line.me/R/ti/p/%40iya4481p
+                  .
 『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』"""
 
 KAC = [cl]
@@ -29,14 +29,14 @@ Bots = [mid]
 admin=["u54c7ad9784e86419f42e87f2aa39e1ec"]
 wait = {
     'contact':False,
-    'autoJoin':True,
+    'autoJoin':False,
     'autoCancel':{"on":True,"members":1},
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':False,
-    'message':"❂••••••••••••••••••••••••••❂ https://line.me/R/ti/p/%40iya4481p『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』",
+    'message':"❂••••••••••••••••••••••••••❂『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』",
     "lang":"JP",
-    "comment":"❂••••••••••••••••••••••••••❂ https://line.me/R/ti/p/%40iya4481p『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』",
+    "comment":"❂••••••••••••••••••••••••••❂『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
